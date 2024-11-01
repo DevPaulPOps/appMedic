@@ -1,0 +1,6 @@
+[submodule "AppMedicFront"]
+	path = AppMedicFront
+	url = git@github.com:DevPaulPOps/AppMedicFront.git
+[submodule "AppMedicBack"]
+	path = AppMedicBack
+	url = git@github.com:DevPaulPOps/AppMedicBack.git
