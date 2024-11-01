@@ -1,8 +1,0 @@
-.idea
-*.iml
-out
-gen
-tests
-README.md
-.gitignore
-.venv
