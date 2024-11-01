@@ -1,5 +1,5 @@
-BACK_DIR=appMedicBack
-FRONT_DIR=appMedicFront
+BACK_DIR=AppMedicBack
+FRONT_DIR=AppMedicFront
 BACK_IMAGE=app-medic-back
 FRONT_IMAGE=app-medic-front
 BACK_CONTAINER=app-medic-back

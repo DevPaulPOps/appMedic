@@ -1,7 +1,7 @@
 #!/bin/bash
 
-BACK_DIR="appMedicBack"
-FRONT_DIR="appMedicFront"
+BACK_DIR="AppMedicBack"
+FRONT_DIR="AppMedicFront"
 BACK_IMAGE="app-medic-back"
 FRONT_IMAGE="app-medic-front"
 BACK_CONTAINER="app-medic-back"
@@ -12,7 +12,6 @@ setup_back() {
     source "$BACK_DIR/.venv/bin/activate"
     pip install -r "$BACK_DIR/requirements.txt"
 }
-
 setup_front() {
     cd $FRONT_DIR
     npm install
